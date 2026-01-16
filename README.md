@@ -1,3 +1,3 @@
 # CaRSC26_16925326_THT
-Nama: Fitriansyah Adil Zuna
-NIM: 16925326
+##Nama: Fitriansyah Adil Zuna  
+##NIM: 16925326
